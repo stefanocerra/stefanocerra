@@ -15,5 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
-
-<img alt="Stefano Cerra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanocerra&hide_border=true" />
+<img alt="Stefano Cerra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanocerra&hide_border=true" />
